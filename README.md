@@ -5,7 +5,7 @@
 | 指摘箇所 | レビュワー | 修正完了バージョン |
 |-|-|-|
 | 0 章 P.2「WinDbgがこんにちは」 | @kash1064 | ver1 |
-| | | |
+| 2 章 P.46 「unsupport attribute」-> 「「unsupported attribute」」| @valmet083  | |
 | | | |
 | | | |
 | | | |
