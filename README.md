@@ -7,8 +7,8 @@
 | 0 章 P.2「WinDbgがこんにちは」 | @kash1064 | ver1 |
 | 2 章 P.46 「unsupport attribute」-> 「「unsupported attribute」」| @valmet083  | |
 | 2 章 p.52 「読み取りアクセスようの」→「読み取りアクセス用の」| @salty_byte | |
-| | | |
-| | | |
+| p.2 図1.1「AMSI Interface」という表現が少し気になりました。AMSIのIにはInterfaceの意味があるのではと。意図的なら特に問題はないです。 | @salty_byte | |
+| p.23, p.76 「AMSIインターフェース」同上 | @salty_byte | |
 | | | |
 | | | |
 | | | |
